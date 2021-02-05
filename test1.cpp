@@ -13,6 +13,8 @@ int main() {
 
     cout << "yeahhhhhhhhhhh\n" ;
     
+    cout << "AYOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO";
+ 
     cout << "Yo input your name: " ;
     
     string name;
