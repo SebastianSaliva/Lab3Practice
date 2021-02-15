@@ -15,11 +15,11 @@ int main() {
     
     cout << "AYOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO";
  
-    cout << "Yo input your name: " ;
+    cout << "Yo input your name: pepe" ;
     
-    string name;
 
-    cin >> name;
-
-    cout << "yeah " << name << " Is a dumbass name." ;
+    cout << "yeah  Is a dumbass name." ;
 }
+
+
+"aefgsdfagf"
